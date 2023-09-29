@@ -27,7 +27,7 @@ Participants whose works receive the most votes from our community will receive 
 - [NFT Whitelist 25](https://getgems.io/collection/EQD6NEcyDESwKua8-dvuMZyU8NVnYAVLc-cECE-y4ag312YK?filter=%7B%22attributes%22%3A%7B%22Discount%22%3A%5B%2225%25%22%5D%7D%7D) providing many [benefits](https://t.me/chesszombieseng/111) within the SHEDEVER studio ecosystem.
 - 100 [SAFT ENRG](https://shedever-studio.gitbook.io/chess-zombies-wpeng/information/energy-cells-usdenrg/saft-enrg).
 - The role of "SHEDGEMS Winner" in our [discord](https://discord.gg/kPxnUZEeFM) and [telegram chat](https://t.me/chesszombieschat/100454)
-- [NFT Knight Mage](https://getgems.io/collection/EQAJj5xds2ms8_4t8chCgFo-sOwc3s3CjbV95EBejcdAilVY?filter=%7B%22sort%22%3A%22RarityRankAsc%22%2C%22attributes%22%3A%7B%22Subclass%22%3A%5B%22Mage%22%5D%2C%22Class%22%3A%5B%22Knight%22%5D%7D%7D) from the Chess Pieces collection
+- [NFT Bishop Archer](https://getgems.io/collection/EQAJj5xds2ms8_4t8chCgFo-sOwc3s3CjbV95EBejcdAilVY?filter=%7B%22attributes%22%3A%7B%22Subclass%22%3A%5B%22Archer%22%5D%2C%22Class%22%3A%5B%22Bishop%22%5D%7D%7D#items) from the Chess Pieces collection
 - Place on the honor board in our [metaspace](https://hubs.mozilla.com/cvzjq4A/chess-zombies-middle-earth)
 
 ## 🚀 Join the SHEDEVER studio Community
